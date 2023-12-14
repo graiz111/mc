@@ -1,0 +1,726 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}.container{
+width: 100%;
+height:3600px;
+background-color: aqua;
+}
+.header{
+    width: 100%;
+    height: 162px;
+    background-color: white;
+}
+.headerone{
+    width: 100%;
+    height: 61px;
+    background-color: white;
+}
+.headeroneone{
+width: 20%;
+height: 61px;
+background-color: transparent;
+float: left;
+margin-left: 321px;
+    
+}
+.headeronetwo{
+    width: 7%;
+    height: 61px;
+    background-color: transparent;
+    float: left;
+    margin-left: 650px;
+}
+.headerimage{
+    width: 100%;
+    height: 37px;
+    margin-left: 0px;
+    margin-top: 12px;
+}
+.headeronename{
+    font-size: 20px;
+    margin-left: 22px;
+    margin-top: 14px;
+    color: #7575a3;
+}
+.headertwo{
+    width: 100%;
+    height: 51px;
+    background-color: #52527a;
+    
+
+}
+.headertwoone{
+    font-size: 19px;
+    margin-left: 305px;
+    margin-top: -20px;
+    color: white;
+    float: left;
+    cursor: pointer;
+    
+    
+
+}
+.headertwoselect{
+    font-size: 24px;
+    margin-left: 862px;
+    margin-top: 6px;
+    color: #7575a3;
+    float: left;
+    width: 142px;
+    height: 39px;
+    border: 0px;
+    border-radius: 5%;
+    cursor: pointer;
+
+}
+.headerthree{
+    background-color: #E1E4E7;
+    width: 100%;
+    height: 50px;
+    float: left;
+    margin-top: -24px;
+    
+}
+.headerthreeone{
+    background-color: transparent;
+    margin-top: 0px;
+    margin-left: 290px;
+    width: 45%;
+    height: 100%;
+
+
+}
+.headerthreeoneselect{
+   
+    width: 15%;
+    height: 45%;
+    color: #335075;
+    font-size: 19px;
+    border: 0px;
+    background-color: transparent;
+    cursor: pointer;
+    
+
+}
+.headerthreetwoselect{
+    width: 20%;
+    height: 47%;
+    color: #335075;
+    font-size: 19px;
+    margin-bottom: 14px;
+    margin-top: 12px;
+    border: 0px;
+    background-color: transparent;
+    cursor: pointer;
+
+}
+.headerthreethreeselect{
+    width: 29%;
+    height: 50%;
+    color: #335075;
+    font-size: 19px;
+    border: 0px;
+    background-color: transparent;
+    cursor: pointer;
+
+}
+.headerthreefourselect{
+    width: 9%;
+    height: 53%;
+    color: #335075;
+    font-size: 19px;
+    border: 0px;
+    cursor: pointer;
+    background-color: transparent;
+
+}
+.headerthreefiveselect{
+    width: 11%;
+    height: 52%;
+    color: #335075;
+    font-size: 19px;
+    border: 0px;
+    background-color: transparent;
+    cursor: pointer;
+
+}
+.headerthreesixselect{
+    width: 12%;
+    height: 52%;
+    color: #335075;
+    font-size: 19px;
+    border: 0px;
+    background-color: transparent;
+    cursor: pointer;
+
+}
+.body{
+    height: 540px;
+    width: 100%;
+    background-color: bisque;
+}
+.bodyone{
+    width: 100%;
+    height: 540px;
+    background-image: url(https://www.jobbank.gc.ca/themes-jb/images/general-hero-bg-A.jpg);
+   
+    
+
+}
+.bodyonedummy{
+    width: 100%;
+    height: 1px;
+}
+.bodyoneone{
+    width: 26%;
+    height: 47px;
+    background-color:transparent;
+    margin-top: 90px;
+    margin-left: 369px;
+
+}
+.byoto{
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+    font-size: 41px;
+}
+.bodyonetwo{
+    width: 21%;
+    height: 25px;
+    margin-top: 1px;
+    margin-left: 370px;
+    background: rgba(255, 255, 255, .85);
+    padding: 4px 10px;
+    border-radius: 12px;
+    margin-top: 7px;
+    margin-bottom: 6px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bodyonethree{
+    width: 60%;
+    height: 67px;
+    background-color: white;
+    margin-top: 1px;
+    margin-left: 369px;
+    border-radius: 40px;
+}
+.bodyonethreetxto{
+
+    width: 31%;
+    height: 48px;
+    background-color:transparent;
+    float: left;
+    margin-left: 21px;
+    margin-top: 9px;
+}
+.bodyonethreetxtt{
+    width: 34%;
+    height: 48px;
+    background-color: transparent;
+    float: left;
+    margin-top: 9px;
+}
+.bodyonethreeone{
+    width: 10%;
+    height: 39px;
+    background-color: #f0f0f5;
+    float: left;
+    margin-left: 100px;
+    margin-top: 13px;
+    border-radius: 44px;
+    cursor: pointer;
+
+}
+.threein{
+    font-size: 13px;
+    margin-left: 11px;
+    margin-top: 2px;
+    color: #808080;
+    margin-bottom: 18px;
+
+
+}
+.threeintwo{
+    font-size: 21px;
+    margin-left: 12px;
+    margin-top: -16px;
+    width: 15%;
+    color: #808080;
+}
+.threeonetx{
+    font-size: 21px;
+    margin-left: 12px;
+    margin-top: 5px;
+    width: 4%;
+    color: #0d0d0d;
+
+}
+.threeonetxt{
+    font-size: 21px;
+    margin-left: 12px;
+    margin-top: 5px;
+    width: 4%;
+    color: #0d0d0d;
+}
+.threeoneb{
+    
+    margin-left: 3px;
+    margin-top: 1px;
+    height: 35px;
+    width: 39px;
+    border-radius: 30px;
+    border-width: 0px;
+    img{
+        width: 153%;
+        height: 102%;
+        margin-left: -4px;
+    }
+    cursor: pointer;
+    
+}
+.bodyonethreetwo{
+    width: 9%;
+    height: 39px;
+    background-color: #f0f0f5;
+    float: left;
+    margin-left: 3px;
+    margin-top: 13px;
+    border-radius: 44px;
+    cursor: pointer;
+    
+
+
+}
+.bodyonethreethree{
+    width: 4%;
+    height: 39px;
+    background-color: transparent;
+    float: left;
+    margin-top: 13px;
+    border-radius: 44px;
+    cursor: pointer;
+
+}
+.bodyonefour{
+    width: 26%;
+    height: 50px;
+    background-color: transparent;
+    margin-left: 398px;
+    cursor: pointer;
+}
+.bodyonefourone{
+    font-size: 20px;
+    margin-left: 8px;
+    margin-top: 12px;
+    height: 46px;
+    cursor: pointer;
+    
+}
+.bodyonefive{
+    width: 26%;
+    height: 50px;
+    background-color: transparent;
+    margin-left: 398px;
+    cursor: pointer;
+}
+.bodyonesix{
+    width: 100%;
+    height: 64px;
+    background-color: #266e8e;
+    margin-top: 113px;
+    cursor: pointer;
+}
+.bodyonesixtext{
+    font-size: 22px;
+    margin-left: 419px;
+    margin-top: 1px;
+    height: 46px;
+    color: white;
+    padding-top: 19px;
+    font-family: 'Roboto',Helvetica,Arial,sans-serif;
+    cursor: pointer;
+}
+.body2{
+    width: 100%;
+    height: 153px;
+    background-color:white;
+    cursor: pointer;
+}
+.body2one{
+    width: 10%;
+    height: 115px;
+    margin-top: 18px;
+    margin-left: 521px;
+    background-color: white;
+    float: left;
+    cursor: pointer;
+
+}
+.body2two{
+    width: 13%;
+    height: 115px;
+    margin-top: 18px;
+    margin-left: 5px;
+    background-color: white;
+    float: left;
+    
+
+}
+.body2three{
+    width: 13%;
+    height: 115px;
+    margin-top: 18px;
+    margin-left: 5px;
+    background-color: white;
+    float: left;
+
+}
+.body2four{
+    width: 12%;
+    height: 115px;
+    margin-top: 18px;
+    margin-left: 5px;
+    background-color:white;
+    float: left;
+
+}
+.body2t{
+    width: 91%;
+    height: 21px;
+    margin-top: -50px;
+    margin-left: 73px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+.body2tx{
+    width: 64%;
+    height: 92px;
+    margin-top: -12px;
+    margin-left: 76px;
+    font-size: 19px;
+    cursor: pointer;
+}
+.body1button{
+    width: 30%;
+    height: 61px;
+    margin-top: 22px;
+    margin-left: 1px;
+    border-color: transparent;
+    border-width: 0px;
+    border-radius: 50px;
+    img{
+        width: 90px;
+    height: 61px;
+    margin-top: 0px;
+    margin-left: -20px;
+    }
+    cursor: pointer;
+}
+.body2button{
+    width: 25%;
+    height: 61px;
+    margin-top: 22px;
+    margin-left: 1px;
+    border-color: transparent;
+    border-width: 0px;
+    border-radius: 50px;
+    img{
+        width: 90px;
+    height: 61px;
+    margin-top: 0px;
+    margin-left: -20px;
+    }
+    cursor: pointer;
+    
+    
+}
+.body3button{
+    width: 25%;
+    height: 61px;
+    margin-top: 22px;
+    border-color: transparent;
+    border-width: 0px;
+    margin-left: 1px;
+    border-radius: 50px;
+    img{
+        width: 90px;
+    height: 61px;
+    margin-top: 0px;
+    margin-left: -20px;
+    }
+    cursor: pointer;
+
+}
+.body4button{
+    width: 27%;
+    height: 61px;
+    margin-top: 22px;
+    border-color: transparent;
+    border-width: 0px;
+    margin-left: 1px;
+    border-radius: 50px;
+    img{
+        width: 90px;
+    height: 61px;
+    margin-top: 0px;
+    margin-left: -20px;
+    }
+    cursor: pointer;
+}
+
+.body31{
+    width: 100%;
+    height: 577px;
+    background-color: #edf5f8;
+   padding-top: 10px;
+   
+}
+.body31t{
+    width: 100%;
+    height: 57px;
+    margin-left: 672px;
+    font-size: 41px;
+
+}
+.body31tt{
+    width: 100%;
+    height: 57px;
+    margin-top: -32px;
+    margin-left: 474px;
+    font-size: 24px;
+}
+.body311{
+    width: 100%;
+    height: 94px;
+    background-color: transparent;
+    margin-top: 82px;
+
+}
+.body32{
+    width: 11%;
+    height: 118px;
+    margin-top: 10px;
+    margin-left: 533px;
+    background-color: white; 
+    float: left;
+    border-radius: 7px;
+}
+.body33{
+    width: 11%;
+    height: 118px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    background-color: white; 
+    border-radius: 7px;
+
+}
+.body34{
+    width: 11%;
+    height: 118px;
+    margin-top: 12px;
+    margin-left: 533px;
+    float: left;
+    background-color: white;
+    border-radius: 7px;
+}
+.body35{
+    width: 11%;
+    height: 118px;
+    margin-top: 12px;
+    margin-left: 10px;
+    float: left;
+    background-color: white;
+    border-radius: 7px;
+}
+.body322{
+    width: 75%;
+    height: 10px;
+    margin-top: 25px;
+    margin-left: 32px;
+    font-size: 24px;
+    font-family: "Noto Sans",sans-serif;
+    text-align: center;
+    color: #335075;
+}
+.body323{
+    width: 74%;
+    height: 1px;
+    margin-top: 14px;
+    margin-left: 32px;
+    font-size: 21px;
+    font-family: "Noto Sans",sans-serif;
+    text-align: center;
+    color: #335075;
+}
+
+
+.bodybody{
+    width: 100%;
+    height: 577px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color:white;
+}
+.bodybodyone{
+    width: 20%;
+    height: 34%;
+    margin-top: 289px;
+    background-color:rgb(250, 249, 246);
+    float: left;
+    margin-left: 205px;
+    
+}
+.bodybodybutton{
+    width: 14%;
+    height: 9%;
+    margin-top: 386px;
+    margin-left: 115px;
+    border-radius: 51px;
+    background-color: #f2f2f2;
+    font-size: 24px;
+    color: #266e8e;
+    cursor: pointer;
+}
+.bodybodytext{
+    margin-top: -374px;
+    font-family: "Noto Sans",sans-serif;
+}
+.bodybodypara{
+    font-size: 27px;
+    font-family: "Noto Sans",sans-serif;
+
+}
+.bodyonebodyheader{
+    margin-left: 52px;
+    font-family: "Noto Sans",sans-serif;
+    
+}
+.bodyonebodyheaderone{
+    color: #eeca67;
+    float: left;
+    
+}
+.bodyonebodyheadertwo{
+    color: #eeca67;
+    float: left;
+    margin-top: 0px;
+}
+.bodyonebodyheaderthree{
+    color: #eeca67;
+    float: left;
+    margin-top: 0px;
+}
+.bodybodybody{
+    background-color: #edf5f8;
+    width: 100%;
+    height: 400px;
+    img{
+        margin-left: 17%;
+        margin-top: -66px;
+        width: 303px;
+        height: 191px;
+    }
+    
+
+}
+.bodythrise{
+    background-color: transparent;
+    width: 100%;
+    height:228px;
+    float: left;
+    margin-top: 10px;
+
+}
+.bodythriseh{
+    margin-left: 313px;
+    font-size: 40px;
+}
+.bodythrisep{
+    margin-left: 316px;
+    font-size: 27px;
+}
+.bodythrisebutton{
+    margin-left: 17%;
+    margin-top: 77px;
+    width: 383px;
+    height: 47px;
+    border-radius: 44px;
+    font-size: 23px;
+    cursor: pointer;
+   
+}
+.footer{
+    width: 100%;
+    height: 138px;
+    margin-top: 10px;
+    margin-left: 0px;
+    float: left;
+    background-color:#154c79;
+    img{
+        width: 17%;
+        height: 145px;
+        margin-top: -153px;
+        margin-left: 1557px;
+    }
+}
+.footerone{
+    width: 10%;
+    height: 115px;
+    margin-top: 9px;
+    margin-left: 219px;
+    color: white;
+    float: left;
+    background-color: transparent;
+}
+.footertwo{
+    width: 10%;
+    height: 115px;
+    color: white;
+    margin-top: 9px;
+    margin-left: 50px;
+    float: left;
+    background-color: transparent;
+}
+.footerthree{
+    width: 10%;
+    height: 115px;
+    color: white;
+    margin-top: 9px;
+    margin-left: 60px;
+    float: left;
+    background-color: transparent;
+}
+.last{
+    background-color: #edf5f8;
+    width: 100%;
+    height: 75px;
+    margin-top: 146px;
+}
+.lastone{
+    background-color: transparent;
+    width: 30%;
+    height: 44px;
+    float: left;
+    margin-left: 190px;
+    margin-top: 10px;
+}
+.lasttwo{
+    background-color: transparent;
+    width: 10%;
+    height: 58px;
+    float: left;
+    margin-left: 620px;
+    margin-top: 10px;
+    img{
+        width: 74%;
+        height: 55px;
+        margin-left: 22px;
+        margin-top: 10px;
+    }
+}
